@@ -16,6 +16,13 @@
                 "type": "overview"
             },
             {
+                "text": {
+                    "headline": "",
+                    "text": "<div class=\"overview-text\">Mapped by ASC and RCS. More info and description to go here.</div>"
+                },
+                "type": "overview"
+            },
+            {
                 "location": {
                     "lat": 39.952517,
                     "lon": -75.163779 
