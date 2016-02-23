@@ -22,7 +22,7 @@
                 },
                 "media": {
                     "height": 100,
-                    "url": "http://localhost:8888/city1.html"
+                    "url": "http://acouch.github.io/cityrealandimagined/city1.html"
                 },
                 "text": {
 		    "headline":"",
@@ -36,7 +36,7 @@
                 },
                 "media": {
                     "height": 100,
-                    "url": "http://localhost:8888/city2.html"
+                    "url": "http://acouch.github.io/cityrealandimagined/city2.html"
                 },
                 "text": {
 		    "headline":"",
@@ -50,7 +50,7 @@
                 },
                 "media": {
                     "height": 100,
-                    "url": "http://localhost:8888/city3.html"
+                    "url": "http://acouch.github.io/cityrealandimagined/city3.html"
                 },
                 "text": {
 		    "headline":"",
