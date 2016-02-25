@@ -175,6 +175,20 @@
 		    "headline":"",
                     "text": ""
                 }
+            },                  
+            {
+                "location": {
+                    "lat": 39.952740,
+                    "lon": -75.133129
+                },
+                "media": {
+                    "height": 100,
+                    "url": "slides/city12.html"
+                },
+                "text": {
+		    "headline":"",
+                    "text": ""
+                }
             }
 
         ],
