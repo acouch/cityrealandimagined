@@ -63,6 +63,20 @@
 		    "headline":"",
                     "text": ""
                 }
+            },
+	    {
+                "location": {
+                    "lat": 39.958790,
+                    "lon": -75.156506
+                },
+                "media": {
+                    "height": 100,
+                    "url": "slides/city4.html"
+                },
+                "text": {
+		    "headline":"",
+                    "text": ""
+                }
             }
         ],
         "use_custom_markers": "true"
