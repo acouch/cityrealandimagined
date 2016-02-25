@@ -10,3 +10,30 @@ pre {
 .vco-layout-landscape .vco-storyslider .vco-slider-background {
   background-image: linear-gradient(to right,rgba(255,255,255,.0009)0,rgba(255,255,255,.97)15%);
 }
+.vco-map .vco-mapmarker-active {
+  color: #24316E;
+}
+.vco-map .leaflet-container .leaflet-control-attribution .vco-knightlab-brand span, .vco-map .leaflet-container .leaflet-control-attribution a.vco-knightlab-brand span {
+  color: #24316E;
+}
+.vco-storymap p a:hover,.vco-storymap p a:focus{
+  color:#24316E;
+}
+.vco-storymap a{
+  color:#24316E;
+}
+.vco-menubar-button:hover{
+  background:#24316E;
+}
+.vco-menubar-button:active{
+  background:#c34528;
+}
+.vco-slide .vco-slide-calltoaction .vco-slide-calltoaction-button-text {
+  background-color:#24316E;
+}
+.vcard a:hover .fn,.vcard a:hover .nickname{
+  color:#24316E;
+}
+.vco-map .vco-mapmarker-active{
+  color:#24316E;
+}
