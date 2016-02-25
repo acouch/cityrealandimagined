@@ -8,12 +8,13 @@ pre {
   line-height: 1.8em;
 }
 .vco-layout-landscape .vco-storyslider .vco-slider-background {
-  background-image: linear-gradient(to right,rgba(255,255,255,.0009)0,rgba(255,255,255,.97)0%);
-  border-left: 1px solid;
+  background-image: initial;
 }
 .vco-slide {
   margin-left: -10%;
   width: 110%;
+  background-color: #fff;
+  border-left: 1px solid;
 }
 .vco-map .vco-mapmarker-active,
 .vco-map .leaflet-container .leaflet-control-attribution .vco-knightlab-brand span, .vco-map .leaflet-container .leaflet-control-attribution a.vco-knightlab-brand span,
