@@ -133,7 +133,21 @@
 		    "headline":"",
                     "text": ""
                 }
-            }                  
+            },                  
+            {
+                "location": {
+                    "lat": 39.950998,
+                    "lon": -75.159787
+                },
+                "media": {
+                    "height": 100,
+                    "url": "slides/city9.html"
+                },
+                "text": {
+		    "headline":"",
+                    "text": ""
+                }
+            }        
 
 
         ],
