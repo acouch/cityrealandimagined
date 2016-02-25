@@ -8,7 +8,8 @@ pre {
   line-height: 1.6em;
 }
 .vco-layout-landscape .vco-storyslider .vco-slider-background {
-  background-image: linear-gradient(to right,rgba(255,255,255,.0009)0,rgba(255,255,255,.97)15%);
+  background-image: linear-gradient(to right,rgba(255,255,255,.0009)0,rgba(255,255,255,.97)0%);
+  border-left: 1px solid;
 }
 .vco-map .vco-mapmarker-active {
   color: purple;
