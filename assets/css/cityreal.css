@@ -38,10 +38,9 @@ pre {
 .vco-media-content img {
   max-width: 500px;
 }
-.vco-slider-item-container:first-child {
+.vco-slider-container .vco-slider-item-container:first-child {
   background-color:#0F1722;
 }
 .vco-slide .vco-slide-content-container {
   padding-left: 10px;
-}
 }
