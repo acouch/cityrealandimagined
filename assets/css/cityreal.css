@@ -37,3 +37,6 @@ pre {
 .vco-media-content img {
   max-width: 500px;
 }
+.vco-slider-item-container:first-child {
+  background-color:#0F1722;
+}
