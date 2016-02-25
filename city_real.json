@@ -7,7 +7,7 @@
                 "media": {
                     "caption": "",
                     "credit": "",
-                    "url": "city_real_cover.jpg"
+                    "url": "assets/imgs/city_real_cover.jpg"
                 },
                 "text": {
                     "headline": "<span class=\"city-overview\">The City Real & Imagined</span>",
@@ -29,7 +29,7 @@
                 },
                 "media": {
                     "height": 100,
-                    "url": "city1.html"
+                    "url": "slides/city1.html"
                 },
                 "text": {
 		    "headline":"",
@@ -43,7 +43,7 @@
                 },
                 "media": {
                     "height": 100,
-                    "url": "city2.html"
+                    "url": "slides/city2.html"
                 },
                 "text": {
 		    "headline":"",
@@ -57,7 +57,7 @@
                 },
                 "media": {
                     "height": 100,
-                    "url": "city3.html"
+                    "url": "slides/city3.html"
                 },
                 "text": {
 		    "headline":"",
