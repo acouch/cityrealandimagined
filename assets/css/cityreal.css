@@ -33,7 +33,7 @@ pre {
     margin-left: 0%;
 }
 .vco-storymap h2.vco-headline-title {
-  font-size: 48px;
+  font-size: 48px !important;
 }
 .vco-media-content img {
   max-width: 500px;
