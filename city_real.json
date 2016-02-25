@@ -203,6 +203,34 @@
 		    "headline":"",
                     "text": ""
                 }
+            },                  
+            {
+                "location": {
+                    "lat": 39.942348,
+                    "lon": -75.157411
+                },
+                "media": {
+                    "height": 100,
+                    "url": "slides/city14.html"
+                },
+                "text": {
+		    "headline":"",
+                    "text": ""
+                }
+            },                  
+            {
+                "location": {
+                    "lat": 39.946953,
+                    "lon": -75.187047
+                },
+                "media": {
+                    "height": 100,
+                    "url": "slides/city15.html"
+                },
+                "text": {
+		    "headline":"",
+                    "text": ""
+                }
             }
 
             
