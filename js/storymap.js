@@ -15048,7 +15048,7 @@ L.Control.MiniMap = L.Control.extend({
         width: 150,
         height: 150,
         aimingRectOptions: {
-            color: "#c34528",
+            color: "#24316E",
             weight: 1,
             clickable: false,
 			stroke:true
@@ -15119,7 +15119,7 @@ L.Control.MiniMap = L.Control.extend({
             this._shadowRect = L.rectangle(this._mainMap.getBounds(), this.options.shadowRectOptions).addTo(this._miniMap);
 			
 			this._locationCircle = L.circleMarker(this._mainMap.getCenter(), {
-				fillColor: "#c34528",
+				fillColor: "#24316E",
 				color: "#FFFFFF",
 				weight:2,
 				radius: 10,
@@ -17426,7 +17426,7 @@ VCO.StoryMap = VCO.Class.extend({
 			calculate_zoom: 		true,   		// Allow map to determine best zoom level between markers (recommended)
 			use_custom_markers: 	false,  		// Allow use of custom map marker icons
 			line_follows_path: 		true,   		// Map history path follows default line, if false it will connect previous and current only
-			line_color: 			"#c34528", //"#DA0000",
+			line_color: 			"#24316E", //"#DA0000",
 			line_color_inactive: 	"#CCC",
 			line_join: 				"miter",
 			line_weight: 			3,
