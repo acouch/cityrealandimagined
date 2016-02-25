@@ -38,8 +38,11 @@ pre {
 .vco-media-content img {
   max-width: 500px;
 }
-.vco-slider-container .vco-slider-item-container:first-child {
+.vco-slide:first-child {
   background-color:#0F1722;
+}
+.vco-slide:first-child h2.vco-headline-title {
+  color: #A0BEC1;
 }
 .vco-slide .vco-slide-content-container {
   padding-left: 10px;
