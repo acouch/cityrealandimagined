@@ -13,7 +13,7 @@ pre {
 .vco-slide {
   margin-left: -10%;
   width: 110%;
-  background-color: #fff;
+  background-color: rgba(255, 255, 255, 0.96);
   border-left: 1px solid;
 }
 .vco-map .vco-mapmarker-active,
