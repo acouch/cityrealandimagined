@@ -5008,7 +5008,7 @@ VCO.MediaType = function(m) {
 			{
 				type: 		"website",
 				name: 		"Website",
-				match_str: 	"(http://|.html)",
+				match_str: 	"(http://|.html$|)",
 				cls: 		VCO.Media.Website
 			},
 			{
