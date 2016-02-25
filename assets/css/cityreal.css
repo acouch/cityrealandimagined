@@ -24,3 +24,6 @@ pre {
 .vco-slide .vco-slide-calltoaction .vco-slide-calltoaction-button-text {
   background-color:#0F1722;
 }
+.vco-layout-landscape .vco-storyslider .vco-slider-background {
+    margin-left: -5%;
+}
