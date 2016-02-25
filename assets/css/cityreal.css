@@ -3,7 +3,7 @@ pre {
   text-align: justify;
   font-family: serif;
   color: #444;
-  margin: 50px 0 0 40px;
+  margin: 50px 0 0 20px;
   font-size: 1.05em;
   line-height: 1.8em;
 }
@@ -25,5 +25,5 @@ pre {
   background-color:#0F1722;
 }
 .vco-layout-landscape .vco-storyslider .vco-slider-background {
-    margin-left: -5%;
+    margin-left: -10%;
 }
