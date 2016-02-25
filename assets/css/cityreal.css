@@ -8,5 +8,5 @@ pre {
   line-height: 1.6em;
 }
 .vco-layout-landscape .vco-storyslider .vco-slider-background {
-  background-image: linear-gradient(to right,rgba(255,255,255,.0001)0,rgba(255,255,255,.95)15%);
+  background-image: linear-gradient(to right,rgba(255,255,255,.0009)0,rgba(255,255,255,.97)15%);
 }
