@@ -6782,8 +6782,8 @@ VCO.Slide = VCO.Class.extend({
 			this._text.addTo(this._el.content);
 			this._media.addTo(this._el.content);
 		} else if (this.has.text && this.has.media) {
-			this._media.addTo(this._el.content);
 			this._text.addTo(this._el.content);
+			this._media.addTo(this._el.content);
 		} else if (this.has.text || this.has.headline) {
 			this._el.container.className += ' vco-slide-text-only';
 			this._text.addTo(this._el.content);
